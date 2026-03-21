@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+data/local-store.json
+
+*.log
+*.zip
+*.rar
+
+.DS_Store
+Thumbs.db
